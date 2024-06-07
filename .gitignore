@@ -1,0 +1,9 @@
+/NeMo
+NeMo
+/NeMo/**/*
+
+venv
+
+__pycache__
+other
+
